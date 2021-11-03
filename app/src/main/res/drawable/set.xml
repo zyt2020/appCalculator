@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="5dp"/>
+    <!--<gradient-->
+    <!--android:startColor="@color/colorAccent"-->
+    <!--android:endColor="@color/colorAccent"/>-->
+    <solid
+        android:color="@android:color/white"/>
+    <stroke
+        android:width="1dp"
+        android:color="@android:color/black"/>
+    ————————————————
+    版权声明：本文为CSDN博主「灰狼902」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+    原文链接：https://blog.csdn.net/z14115011044/article/details/51336649
+</selector>
